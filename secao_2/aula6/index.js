@@ -10,7 +10,7 @@ console.log(`O filho de ${nome} se chama Eduardo.`) */
 // Variáveis precisam ter nomes significativos
 
 let nomeClienteJoao = 'João';
-// console.log(nomeClienteJoao);
+// console.log(nomeClienteJoao)
 
 // Não pode começar o nome de uma variável com um número
 let no1me;
